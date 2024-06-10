@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://youtube.com/@suhailtechinfo">
-    <img alt="Iris-Md" height="400" src="/lib/assets/pk.jpg">
+    <img alt="Iris-Md" height="400" src="https://a.uguu.se/VFdohuZK.jpg">
   </a>
 </p>
     
